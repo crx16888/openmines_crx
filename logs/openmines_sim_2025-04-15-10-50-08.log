@@ -1,0 +1,647 @@
+2025-04-15 10:50:08,510 [INFO] NorthOpenPitMine: simulation started with dispatcher NaiveDispatcher
+2025-04-15 10:50:08,511 [INFO] Truck: Time:<0> Truck:[Fuel Card1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:08,511 [INFO] Truck: Time:<0> Truck:[Electric Card1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:08,512 [INFO] Truck: Time:<0> Truck:[Truck1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:08,518 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 24.0
+2025-04-15 10:50:08,518 [INFO] Truck: Time:<24.0> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 24.0
+2025-04-15 10:50:08,518 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:08,518 [INFO] Truck: Time:<24.0> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-2, load time is 100.0
+2025-04-15 10:50:08,523 [INFO] Truck: Time:<60.0> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 60.0
+2025-04-15 10:50:08,525 [INFO] Truck: Time:<84.0> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,526 [DEBUG] Truck: Time:<84.0> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,526 [INFO] Truck: Time:<82> Truck:[Fuel Card1] breakdown for 4.494433558080125 minutes at 82
+2025-04-15 10:50:08,526 [INFO] Truck: Time:<84.0> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 240.0
+2025-04-15 10:50:08,530 [DEBUG] Truck: Time:<112.49443355808012> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 112.49443355808012
+2025-04-15 10:50:08,531 [INFO] Truck: Time:<113.49443355808012> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 29.926819229926195
+2025-04-15 10:50:08,531 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 54.08 mins, and will end at 167.57, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,532 [DEBUG] Truck: Time:<113.49443355808012> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.687935242566928, speed: 25
+2025-04-15 10:50:08,533 [INFO] Truck: Time:<124.0> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:08,533 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 50.04 mins, and will end at 174.04, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,533 [DEBUG] Truck: Time:<124.0> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 14.259929951009786, speed: 25
+2025-04-15 10:50:08,533 [INFO] Truck: Time:<120> Truck:[Truck1] breakdown for 3.6228745354168765 minutes at 120
+2025-04-15 10:50:08,536 [INFO] Truck: Time:<148.74547814024075> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 148.74547814024075
+2025-04-15 10:50:08,536 [INFO] Truck: Time:<148.74547814024075> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 60.0
+2025-04-15 10:50:08,539 [DEBUG] Truck: Time:<161.84670641784038> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 161.84670641784038
+2025-04-15 10:50:08,539 [INFO] Truck: Time:<162.84670641784038> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 76.95159653683436
+2025-04-15 10:50:08,539 [DEBUG] Truck: Time:<162.84670641784038> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.465561287672347, speed: 25
+2025-04-15 10:50:08,539 [INFO] Truck: Time:<139> Truck:[Truck1] breakdown for 8.626979428057108 minutes at 139
+2025-04-15 10:50:08,546 [INFO] Truck: Time:<203.79103293631113> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 203.79103293631113
+2025-04-15 10:50:08,547 [INFO] Truck: Time:<208.74547814024075> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:08,547 [DEBUG] Truck: Time:<208.74547814024075> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,547 [INFO] Truck: Time:<202> Truck:[Fuel Card1] breakdown for 12.151304493553507 minutes at 202
+2025-04-15 10:50:08,552 [DEBUG] Truck: Time:<244.89678263379426> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 244.89678263379426
+2025-04-15 10:50:08,552 [INFO] Truck: Time:<245.89678263379426> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 108.67264304791323
+2025-04-15 10:50:08,553 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 63.04 mins, and will end at 308.94, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,553 [DEBUG] Truck: Time:<245.89678263379426> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 12.870017724189388, speed: 25
+2025-04-15 10:50:08,553 [INFO] Truck: Time:<227> Truck:[Fuel Card1] breakdown for 7.086026739049701 minutes at 227
+2025-04-15 10:50:08,558 [INFO] Truck: Time:<283.8708519108985> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 283.8708519108985
+2025-04-15 10:50:08,558 [INFO] Truck: Time:<283.8708519108985> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 60.0
+2025-04-15 10:50:08,564 [INFO] Truck: Time:<324.0> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,564 [INFO] Truck: Time:<324.0> Shovel LoadSite-1 Shovel-1 under maintenance for 40.55 minutes
+2025-04-15 10:50:08,566 [INFO] Truck: Time:<343.8708519108985> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:08,566 [INFO] Truck: Time:<343.8708519108985> Shovel LoadSite-1 Shovel-2 under maintenance for 48.31 minutes
+2025-04-15 10:50:08,569 [INFO] Truck: Time:<364.5515351943601> Shovel LoadSite-1 Shovel-1 maintenance completed
+2025-04-15 10:50:08,569 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 66.60 mins, and will end at 431.15, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,569 [DEBUG] Truck: Time:<364.5515351943601> Truck:[Electric Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 12.292748024753795, speed: 10
+2025-04-15 10:50:08,569 [INFO] Truck: Time:<330> Truck:[Electric Card1] breakdown for 15.107544504651267 minutes at 330
+2025-04-15 10:50:08,569 [INFO] Truck: Time:<364.5515351943601> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:08,573 [INFO] Truck: Time:<392.1807072840825> Shovel LoadSite-1 Shovel-2 maintenance completed
+2025-04-15 10:50:08,573 [DEBUG] Truck: Time:<392.1807072840825> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 14.465493281422447, speed: 25
+2025-04-15 10:50:08,573 [INFO] Truck: Time:<391> Truck:[Fuel Card1] breakdown for 6.670717554838124 minutes at 391
+2025-04-15 10:50:08,579 [DEBUG] Truck: Time:<433.56860871433446> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 433.56860871433446
+2025-04-15 10:50:08,580 [INFO] Truck: Time:<434.56860871433446> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 136.33489260577576
+2025-04-15 10:50:08,580 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 72.10 mins, and will end at 506.66, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,580 [DEBUG] Truck: Time:<434.56860871433446> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 16.469188893869077, speed: 25
+2025-04-15 10:50:08,580 [INFO] Truck: Time:<418> Truck:[Fuel Card1] breakdown for 5.953107462789506 minutes at 418
+2025-04-15 10:50:08,583 [DEBUG] Truck: Time:<453.41556784753413> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 1 at 453.41556784753413
+2025-04-15 10:50:08,583 [INFO] Truck: Time:<454.41556784753413> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 254.72642617361342
+2025-04-15 10:50:08,583 [DEBUG] Truck: Time:<454.41556784753413> Truck:[Electric Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.526993747542324, speed: 10
+2025-04-15 10:50:08,583 [INFO] Truck: Time:<451> Truck:[Electric Card1] breakdown for 9.774575692325362 minutes at 451
+2025-04-15 10:50:08,585 [INFO] Truck: Time:<464.5515351943601> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,585 [DEBUG] Truck: Time:<464.5515351943601> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,585 [INFO] Truck: Time:<448> Truck:[Truck1] breakdown for 11.301409687059245 minutes at 448
+2025-04-15 10:50:08,586 [INFO] Truck: Time:<480.04776952240974> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 480.04776952240974
+2025-04-15 10:50:08,586 [INFO] Truck: Time:<480.04776952240974> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:08,589 [DEBUG] Truck: Time:<499.8529448814193> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 499.8529448814193
+2025-04-15 10:50:08,589 [INFO] Truck: Time:<500.8529448814193> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 304.2325268040217
+2025-04-15 10:50:08,589 [DEBUG] Truck: Time:<500.8529448814193> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.890026402083908, speed: 25
+2025-04-15 10:50:08,589 [INFO] Truck: Time:<494> Truck:[Truck1] breakdown for 11.812834883234324 minutes at 494
+2025-04-15 10:50:08,597 [INFO] Truck: Time:<540.0477695224097> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,597 [DEBUG] Truck: Time:<540.0477695224097> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,597 [INFO] Truck: Time:<525> Truck:[Fuel Card1] breakdown for 7.948137635915293 minutes at 525
+2025-04-15 10:50:08,598 [INFO] Truck: Time:<548.401843129655> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 548.401843129655
+2025-04-15 10:50:08,599 [INFO] Truck: Time:<548.401843129655> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:08,599 [INFO] Truck: Time:<551.3521060251135> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 551.3521060251135
+2025-04-15 10:50:08,599 [INFO] Truck: Time:<551.3521060251135> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 240.0
+2025-04-15 10:50:08,602 [DEBUG] Truck: Time:<571.9959071583249> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 571.9959071583249
+2025-04-15 10:50:08,602 [INFO] Truck: Time:<572.9959071583249> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 336.6541759503453
+2025-04-15 10:50:08,602 [DEBUG] Truck: Time:<572.9959071583249> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,602 [INFO] Truck: Time:<554> Truck:[Fuel Card1] breakdown for 10.87510844336615 minutes at 554
+2025-04-15 10:50:08,607 [INFO] Truck: Time:<607.871015601691> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 607.871015601691
+2025-04-15 10:50:08,611 [INFO] Truck: Time:<648.401843129655> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,611 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 51.40 mins, and will end at 699.81, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,612 [DEBUG] Truck: Time:<648.401843129655> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 14.480179732174655, speed: 25
+2025-04-15 10:50:08,612 [INFO] Truck: Time:<645> Truck:[Truck1] breakdown for 12.09432182452672 minutes at 645
+2025-04-15 10:50:08,612 [INFO] Truck: Time:<648.401843129655> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:08,617 [DEBUG] Truck: Time:<695.2485963114009> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 695.2485963114009
+2025-04-15 10:50:08,619 [INFO] Truck: Time:<696.2485963114009> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 381.9974073762839
+2025-04-15 10:50:08,619 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 82.45 mins, and will end at 778.69, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,619 [DEBUG] Truck: Time:<696.2485963114009> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.894510396945375, speed: 25
+2025-04-15 10:50:08,621 [INFO] Truck: Time:<708.401843129655> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,621 [DEBUG] Truck: Time:<708.401843129655> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,621 [INFO] Truck: Time:<682> Truck:[Fuel Card1] breakdown for 4.312047399473503 minutes at 682
+2025-04-15 10:50:08,624 [INFO] Truck: Time:<731.9954212640698> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 731.9954212640698
+2025-04-15 10:50:08,624 [INFO] Truck: Time:<731.9954212640698> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:08,625 [DEBUG] Truck: Time:<736.7138905291285> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 736.7138905291285
+2025-04-15 10:50:08,625 [INFO] Truck: Time:<737.7138905291285> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 410.9097675014257
+2025-04-15 10:50:08,625 [DEBUG] Truck: Time:<737.7138905291285> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.146383855475445, speed: 25
+2025-04-15 10:50:08,625 [INFO] Truck: Time:<736> Truck:[Fuel Card1] breakdown for 13.125384076255465 minutes at 736
+2025-04-15 10:50:08,658 [INFO] Truck: Time:<782.3905958585251> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 782.3905958585251
+2025-04-15 10:50:08,660 [INFO] Truck: Time:<791.3521060251135> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:08,660 [DEBUG] Truck: Time:<791.3521060251135> Truck:[Electric Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 10
+2025-04-15 10:50:08,660 [INFO] Truck: Time:<781> Truck:[Electric Card1] breakdown for 8.57298340501872 minutes at 781
+2025-04-15 10:50:08,665 [INFO] Truck: Time:<831.9954212640698> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,665 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 36.62 mins, and will end at 868.61, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,666 [DEBUG] Truck: Time:<831.9954212640698> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 17.39397552983149, speed: 25
+2025-04-15 10:50:08,666 [INFO] Truck: Time:<810> Truck:[Truck1] breakdown for 13.799603095658853 minutes at 810
+2025-04-15 10:50:08,666 [INFO] Truck: Time:<831.9954212640698> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:08,669 [DEBUG] Truck: Time:<859.9250894301322> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 1 at 859.9250894301322
+2025-04-15 10:50:08,669 [INFO] Truck: Time:<860.9250894301322> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 527.7525573224674
+2025-04-15 10:50:08,671 [DEBUG] Truck: Time:<860.9250894301322> Truck:[Electric Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 10
+2025-04-15 10:50:08,671 [INFO] Truck: Time:<858> Truck:[Electric Card1] breakdown for 3.6331838610916654 minutes at 858
+2025-04-15 10:50:08,674 [DEBUG] Truck: Time:<887.5405656313243> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 887.5405656313243
+2025-04-15 10:50:08,675 [INFO] Truck: Time:<888.5405656313243> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 573.2495799045888
+2025-04-15 10:50:08,675 [DEBUG] Truck: Time:<888.5405656313243> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,675 [INFO] Truck: Time:<862> Truck:[Truck1] breakdown for 7.65522709868009 minutes at 862
+2025-04-15 10:50:08,675 [INFO] Truck: Time:<891.9954212640698> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,676 [DEBUG] Truck: Time:<891.9954212640698> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,676 [INFO] Truck: Time:<887> Truck:[Fuel Card1] breakdown for 9.69830723656101 minutes at 887
+2025-04-15 10:50:08,681 [INFO] Truck: Time:<920.1957927300044> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 920.1957927300044
+2025-04-15 10:50:08,681 [INFO] Truck: Time:<920.1957927300044> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:08,681 [INFO] Truck: Time:<924.5582732912238> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 924.5582732912238
+2025-04-15 10:50:08,682 [INFO] Truck: Time:<924.5582732912238> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 240.0
+2025-04-15 10:50:08,682 [DEBUG] Truck: Time:<925.6937285006309> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 925.6937285006309
+2025-04-15 10:50:08,682 [INFO] Truck: Time:<926.6937285006309> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 604.7375274909507
+2025-04-15 10:50:08,682 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 68.54 mins, and will end at 995.24, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,682 [DEBUG] Truck: Time:<926.6937285006309> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.880953233730828, speed: 25
+2025-04-15 10:50:08,682 [INFO] Truck: Time:<912> Truck:[Fuel Card1] breakdown for 11.183357126645234 minutes at 912
+2025-04-15 10:50:08,689 [INFO] Truck: Time:<971.1913733882301> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 971.1913733882301
+2025-04-15 10:50:08,695 [INFO] Truck: Time:<1020.1957927300044> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,695 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 54.87 mins, and will end at 1075.06, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,695 [DEBUG] Truck: Time:<1020.1957927300044> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 14.248817896672128, speed: 25
+2025-04-15 10:50:08,695 [INFO] Truck: Time:<1012> Truck:[Truck1] breakdown for 7.626978398846999 minutes at 1012
+2025-04-15 10:50:08,695 [INFO] Truck: Time:<1020.1957927300044> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:08,701 [DEBUG] Truck: Time:<1062.0199340808645> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 1062.0199340808645
+2025-04-15 10:50:08,702 [INFO] Truck: Time:<1063.0199340808645> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 651.581322799663
+2025-04-15 10:50:08,702 [DEBUG] Truck: Time:<1063.0199340808645> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,702 [INFO] Truck: Time:<1050> Truck:[Truck1] breakdown for 4.992800387508504 minutes at 1050
+2025-04-15 10:50:08,704 [INFO] Truck: Time:<1080.1957927300045> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:08,704 [INFO] Truck: Time:<1080.1957927300045> Shovel LoadSite-1 Shovel-1 under maintenance for 41.61 minutes
+2025-04-15 10:50:08,706 [INFO] Truck: Time:<1092.0127344683729> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 1092.0127344683729
+2025-04-15 10:50:08,710 [INFO] Truck: Time:<1121.8048036674363> Shovel LoadSite-1 Shovel-1 maintenance completed
+2025-04-15 10:50:08,710 [DEBUG] Truck: Time:<1121.8048036674363> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:08,710 [INFO] Truck: Time:<1107> Truck:[Fuel Card1] breakdown for 10.482699960165231 minutes at 1107
+2025-04-15 10:50:08,710 [INFO] Truck: Time:<1121.8048036674363> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:08,714 [DEBUG] Truck: Time:<1156.2875036276016> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 1156.2875036276016
+2025-04-15 10:50:08,714 [INFO] Truck: Time:<1157.2875036276016> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 679.9863805622798
+2025-04-15 10:50:08,716 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 53.93 mins, and will end at 1211.22, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:08,716 [DEBUG] Truck: Time:<1157.2875036276016> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.941682615317504, speed: 25
+2025-04-15 10:50:08,716 [INFO] Truck: Time:<1157> Truck:[Fuel Card1] breakdown for 10.179294556757085 minutes at 1157
+2025-04-15 10:50:08,717 [INFO] Truck: Time:<1164.558273291224> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:08,717 [INFO] Truck: Time:<1164.558273291224> Shovel LoadSite-1 Shovel-2 under maintenance for 46.92 minutes
+2025-04-15 10:50:08,722 [INFO] NorthOpenPitMine: simulation finished with dispatcher NaiveDispatcher
+2025-04-15 10:50:09,064 [INFO] NorthOpenPitMine: simulation started with dispatcher RandomDispatcher
+2025-04-15 10:50:09,065 [INFO] Truck: Time:<0> Truck:[Fuel Card1] Activated at 0, Target load site is ORDER(1):North Open-pit Mine Load Site 2, move distance is 10
+2025-04-15 10:50:09,065 [INFO] Truck: Time:<0> Truck:[Electric Card1] Activated at 0, Target load site is ORDER(1):North Open-pit Mine Load Site 2, move distance is 10
+2025-04-15 10:50:09,065 [INFO] Truck: Time:<0> Truck:[Truck1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:09,067 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 2 at 24.0
+2025-04-15 10:50:09,068 [INFO] Truck: Time:<24.0> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 24.0
+2025-04-15 10:50:09,068 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Start loading at shovel LoadSite-2 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,068 [INFO] Truck: Time:<24.0> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:09,072 [INFO] Truck: Time:<60.0> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 2 at 60.0
+2025-04-15 10:50:09,074 [INFO] Truck: Time:<84.0> Truck:[Fuel Card1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:09,075 [DEBUG] Truck: Time:<84.0> Truck:[Fuel Card1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 10, speed: 25
+2025-04-15 10:50:09,075 [INFO] Truck: Time:<84> Truck:[Fuel Card1] breakdown for 14.808041230455641 minutes at 84
+2025-04-15 10:50:09,075 [INFO] Truck: Time:<84.0> Truck:[Electric Card1] Start loading at shovel LoadSite-2 Shovel-1, load time is 240.0
+2025-04-15 10:50:09,080 [DEBUG] Truck: Time:<122.80804123045564> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 2 at 122.80804123045564
+2025-04-15 10:50:09,080 [INFO] Truck: Time:<123.80804123045564> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 29.895882092075603
+2025-04-15 10:50:09,080 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 3 is in repair，the repair will last for 73.24 mins, and will end at 197.05, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,081 [DEBUG] Truck: Time:<123.80804123045564> Truck:[Fuel Card1] Start moving to ORDER(2):North Open-pit Mine Load Site 3, move distance is 14.724760618841056, speed: 25
+2025-04-15 10:50:09,081 [INFO] Truck: Time:<109> Truck:[Fuel Card1] breakdown for 12.176741894234095 minutes at 109
+2025-04-15 10:50:09,081 [INFO] Truck: Time:<124.0> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,081 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 52.96 mins, and will end at 176.96, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,081 [DEBUG] Truck: Time:<124.0> Truck:[Truck1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 14.104636174933812, speed: 25
+2025-04-15 10:50:09,081 [INFO] Truck: Time:<124> Truck:[Truck1] breakdown for 5.750994067199592 minutes at 124
+2025-04-15 10:50:09,090 [DEBUG] Truck: Time:<163.60212088704074> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 2 at 163.60212088704074
+2025-04-15 10:50:09,091 [INFO] Truck: Time:<164.60212088704074> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 77.25447845761033
+2025-04-15 10:50:09,091 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 61.03 mins, and will end at 225.63, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,091 [DEBUG] Truck: Time:<164.60212088704074> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 11.79783738593783, speed: 25
+2025-04-15 10:50:09,091 [INFO] Truck: Time:<162> Truck:[Truck1] breakdown for 6.548331002806699 minutes at 162
+2025-04-15 10:50:09,092 [INFO] Truck: Time:<171.32420860990825> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 3 at 171.32420860990825
+2025-04-15 10:50:09,093 [INFO] Truck: Time:<171.32420860990825> Truck:[Fuel Card1] Start loading at shovel LoadSite-3 Shovel-1, load time is 9.0
+2025-04-15 10:50:09,093 [INFO] Truck: Time:<180.32420860990825> Truck:[Fuel Card1] Finish loading at shovel LoadSite-3 Shovel-1
+2025-04-15 10:50:09,093 [INFO] Truck: Time:<180.32420860990825> Shovel LoadSite-3 Shovel-1 under maintenance for 46.88 minutes
+2025-04-15 10:50:09,096 [INFO] Truck: Time:<199.46526161609822> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 199.46526161609822
+2025-04-15 10:50:09,099 [INFO] Truck: Time:<227.20675812523274> Shovel LoadSite-3 Shovel-1 maintenance completed
+2025-04-15 10:50:09,100 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 3 to North Open-pit Mine Dump Site 3 is in repair，the repair will last for 60.45 mins, and will end at 287.65, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,100 [DEBUG] Truck: Time:<227.20675812523274> Truck:[Fuel Card1] Start moving to ORDER(2): North Open-pit Mine Dump Site 3, move distance is 17.52102689160546, speed: 25
+2025-04-15 10:50:09,100 [INFO] Truck: Time:<219> Truck:[Fuel Card1] breakdown for 7.179570647975675 minutes at 219
+2025-04-15 10:50:09,106 [DEBUG] Truck: Time:<276.4367933130615> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 3 at 276.4367933130615
+2025-04-15 10:50:09,106 [INFO] Truck: Time:<277.4367933130615> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 3-点位0, dumper tons is 30.373405940976145
+2025-04-15 10:50:09,106 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 3 to North Open-pit Mine Load Site 3 is in repair，the repair will last for 64.32 mins, and will end at 341.76, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,106 [DEBUG] Truck: Time:<277.4367933130615> Truck:[Fuel Card1] Start moving to ORDER(2):North Open-pit Mine Load Site 3, move distance is 18.20287024252972, speed: 25
+2025-04-15 10:50:09,106 [INFO] Truck: Time:<268> Truck:[Fuel Card1] breakdown for 14.027772186931102 minutes at 268
+2025-04-15 10:50:09,112 [INFO] Truck: Time:<324.0> Truck:[Electric Card1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:09,113 [INFO] Truck: Time:<324.0> Shovel LoadSite-2 Shovel-1 under maintenance for 49.91 minutes
+2025-04-15 10:50:09,114 [INFO] Truck: Time:<335.15145408206394> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 3 at 335.15145408206394
+2025-04-15 10:50:09,114 [INFO] Truck: Time:<335.15145408206394> Truck:[Fuel Card1] Start loading at shovel LoadSite-3 Shovel-1, load time is 9.0
+2025-04-15 10:50:09,115 [INFO] Truck: Time:<344.15145408206394> Truck:[Fuel Card1] Finish loading at shovel LoadSite-3 Shovel-1
+2025-04-15 10:50:09,116 [DEBUG] Truck: Time:<344.15145408206394> Truck:[Fuel Card1] Start moving to ORDER(2): North Open-pit Mine Dump Site 3, move distance is 12, speed: 25
+2025-04-15 10:50:09,116 [INFO] Truck: Time:<342> Truck:[Fuel Card1] breakdown for 5.261873685919438 minutes at 342
+2025-04-15 10:50:09,119 [INFO] Truck: Time:<373.9144107199564> Shovel LoadSite-2 Shovel-1 maintenance completed
+2025-04-15 10:50:09,119 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 59.69 mins, and will end at 433.61, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,119 [DEBUG] Truck: Time:<373.9144107199564> Truck:[Electric Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 16.45689711553625, speed: 10
+2025-04-15 10:50:09,119 [INFO] Truck: Time:<373> Truck:[Electric Card1] breakdown for 12.284238964672799 minutes at 373
+2025-04-15 10:50:09,119 [INFO] Truck: Time:<373.9144107199564> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:09,120 [DEBUG] Truck: Time:<378.2133277679834> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 3 at 378.2133277679834
+2025-04-15 10:50:09,120 [INFO] Truck: Time:<379.2133277679834> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 3-点位0, dumper tons is 60.13182263384172
+2025-04-15 10:50:09,120 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 3 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 48.35 mins, and will end at 427.57, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,120 [DEBUG] Truck: Time:<379.2133277679834> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.3694991528365, speed: 25
+2025-04-15 10:50:09,120 [INFO] Truck: Time:<377> Truck:[Fuel Card1] breakdown for 9.308530127309268 minutes at 377
+2025-04-15 10:50:09,126 [INFO] Truck: Time:<423.0086558621003> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 423.0086558621003
+2025-04-15 10:50:09,126 [INFO] Truck: Time:<423.0086558621003> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,132 [INFO] Truck: Time:<473.9144107199564> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:09,132 [DEBUG] Truck: Time:<473.9144107199564> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 12, speed: 25
+2025-04-15 10:50:09,132 [INFO] Truck: Time:<447> Truck:[Truck1] breakdown for 3.6522534890547416 minutes at 447
+2025-04-15 10:50:09,134 [INFO] Truck: Time:<483.0086558621003> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,134 [INFO] Truck: Time:<483.0086558621003> Shovel LoadSite-1 Shovel-1 under maintenance for 41.17 minutes
+2025-04-15 10:50:09,135 [DEBUG] Truck: Time:<484.9400323778467> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 1 at 484.9400323778467
+2025-04-15 10:50:09,135 [INFO] Truck: Time:<485.9400323778467> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 123.49924476813348
+2025-04-15 10:50:09,135 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 60.18 mins, and will end at 546.12, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,135 [DEBUG] Truck: Time:<485.9400323778467> Truck:[Electric Card1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 17.21092318732433, speed: 10
+2025-04-15 10:50:09,136 [INFO] Truck: Time:<471> Truck:[Electric Card1] breakdown for 12.784617915352941 minutes at 471
+2025-04-15 10:50:09,138 [DEBUG] Truck: Time:<506.3666642090111> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 506.3666642090111
+2025-04-15 10:50:09,139 [INFO] Truck: Time:<507.3666642090111> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 169.01288544306038
+2025-04-15 10:50:09,139 [DEBUG] Truck: Time:<507.3666642090111> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 18.261750520488967, speed: 25
+2025-04-15 10:50:09,139 [INFO] Truck: Time:<507> Truck:[Truck1] breakdown for 15.501480296407472 minutes at 507
+2025-04-15 10:50:09,141 [INFO] Truck: Time:<524.177089059167> Shovel LoadSite-1 Shovel-1 maintenance completed
+2025-04-15 10:50:09,141 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 70.68 mins, and will end at 594.86, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,141 [DEBUG] Truck: Time:<524.177089059167> Truck:[Fuel Card1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 14.593905657968556, speed: 25
+2025-04-15 10:50:09,141 [INFO] Truck: Time:<505> Truck:[Fuel Card1] breakdown for 10.07245298132423 minutes at 505
+2025-04-15 10:50:09,146 [INFO] Truck: Time:<566.6963457545921> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 566.6963457545921
+2025-04-15 10:50:09,146 [INFO] Truck: Time:<566.6963457545921> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:09,148 [DEBUG] Truck: Time:<569.2749156196157> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 2 at 569.2749156196157
+2025-04-15 10:50:09,148 [INFO] Truck: Time:<570.2749156196157> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 107.83534851758799
+2025-04-15 10:50:09,148 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 44.95 mins, and will end at 615.22, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,149 [DEBUG] Truck: Time:<570.2749156196157> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.538981148005874, speed: 25
+2025-04-15 10:50:09,149 [INFO] Truck: Time:<561> Truck:[Fuel Card1] breakdown for 12.19775838265316 minutes at 561
+2025-04-15 10:50:09,153 [INFO] Truck: Time:<601.9901894171456> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 2 at 601.9901894171456
+2025-04-15 10:50:09,156 [INFO] Truck: Time:<617.366228757483> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 617.366228757483
+2025-04-15 10:50:09,156 [INFO] Truck: Time:<617.366228757483> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,161 [INFO] Truck: Time:<666.6963457545921> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:09,162 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 62.04 mins, and will end at 728.74, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,162 [DEBUG] Truck: Time:<666.6963457545921> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 16.539562677848153, speed: 25
+2025-04-15 10:50:09,162 [INFO] Truck: Time:<625> Truck:[Truck1] breakdown for 10.966960754842866 minutes at 625
+2025-04-15 10:50:09,162 [INFO] Truck: Time:<666.6963457545921> Truck:[Electric Card1] Start loading at shovel LoadSite-2 Shovel-1, load time is 240.0
+2025-04-15 10:50:09,163 [INFO] Truck: Time:<677.366228757483> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,164 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 3 is in repair，the repair will last for 38.74 mins, and will end at 716.10, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,164 [DEBUG] Truck: Time:<677.366228757483> Truck:[Fuel Card1] Start moving to ORDER(2): North Open-pit Mine Dump Site 3, move distance is 18.65633141555158, speed: 25
+2025-04-15 10:50:09,164 [INFO] Truck: Time:<651> Truck:[Fuel Card1] breakdown for 9.889445290921135 minutes at 651
+2025-04-15 10:50:09,169 [DEBUG] Truck: Time:<717.3582569362705> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 717.3582569362705
+2025-04-15 10:50:09,170 [INFO] Truck: Time:<718.3582569362705> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 216.40836406303555
+2025-04-15 10:50:09,170 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 62.80 mins, and will end at 781.16, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,170 [DEBUG] Truck: Time:<718.3582569362705> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.23699892815577, speed: 25
+2025-04-15 10:50:09,170 [INFO] Truck: Time:<697> Truck:[Truck1] breakdown for 5.702209397933704 minutes at 697
+2025-04-15 10:50:09,173 [DEBUG] Truck: Time:<732.030869445728> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 3 at 732.030869445728
+2025-04-15 10:50:09,173 [INFO] Truck: Time:<733.030869445728> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 3-点位0, dumper tons is 89.66234707024671
+2025-04-15 10:50:09,173 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 3 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 61.97 mins, and will end at 795.00, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,173 [DEBUG] Truck: Time:<733.030869445728> Truck:[Fuel Card1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 17.48551663262796, speed: 25
+2025-04-15 10:50:09,174 [INFO] Truck: Time:<722> Truck:[Fuel Card1] breakdown for 8.422031845787343 minutes at 722
+2025-04-15 10:50:09,176 [INFO] Truck: Time:<758.2292637617782> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 758.2292637617782
+2025-04-15 10:50:09,177 [INFO] Truck: Time:<758.2292637617782> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:09,181 [INFO] Truck: Time:<783.4181412098225> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 2 at 783.4181412098225
+2025-04-15 10:50:09,189 [INFO] Truck: Time:<858.2292637617782> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,190 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 3 is in repair，the repair will last for 50.52 mins, and will end at 908.75, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,190 [DEBUG] Truck: Time:<858.2292637617782> Truck:[Truck1] Start moving to ORDER(2): North Open-pit Mine Dump Site 3, move distance is 16.327944691557533, speed: 25
+2025-04-15 10:50:09,190 [INFO] Truck: Time:<850> Truck:[Truck1] breakdown for 8.201890786700268 minutes at 850
+2025-04-15 10:50:09,199 [DEBUG] Truck: Time:<905.6182218082165> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 3 at 905.6182218082165
+2025-04-15 10:50:09,199 [INFO] Truck: Time:<906.6182218082165> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 3-点位0, dumper tons is 136.61792644411582
+2025-04-15 10:50:09,199 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 3 to North Open-pit Mine Load Site 3 is in repair，the repair will last for 62.93 mins, and will end at 969.55, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,199 [DEBUG] Truck: Time:<906.6182218082165> Truck:[Truck1] Start moving to ORDER(2):North Open-pit Mine Load Site 3, move distance is 15.68817025762602, speed: 25
+2025-04-15 10:50:09,199 [INFO] Truck: Time:<903> Truck:[Truck1] breakdown for 10.186968589328735 minutes at 903
+2025-04-15 10:50:09,199 [INFO] Truck: Time:<906.6963457545921> Truck:[Electric Card1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:09,200 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 3 is in repair，the repair will last for 61.36 mins, and will end at 968.06, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,200 [DEBUG] Truck: Time:<906.6963457545921> Truck:[Electric Card1] Start moving to ORDER(2): North Open-pit Mine Dump Site 3, move distance is 14.896534662169746, speed: 10
+2025-04-15 10:50:09,200 [INFO] Truck: Time:<894> Truck:[Electric Card1] breakdown for 8.78980204285414 minutes at 894
+2025-04-15 10:50:09,200 [INFO] Truck: Time:<906.6963457545921> Truck:[Fuel Card1] Start loading at shovel LoadSite-2 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,207 [INFO] Truck: Time:<954.4567990158478> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 3 at 954.4567990158478
+2025-04-15 10:50:09,207 [INFO] Truck: Time:<954.4567990158478> Truck:[Truck1] Start loading at shovel LoadSite-3 Shovel-1, load time is 15.0
+2025-04-15 10:50:09,208 [INFO] Truck: Time:<966.6963457545921> Truck:[Fuel Card1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:09,209 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 61.01 mins, and will end at 1027.71, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,209 [DEBUG] Truck: Time:<966.6963457545921> Truck:[Fuel Card1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 15.11671094718071, speed: 25
+2025-04-15 10:50:09,209 [INFO] Truck: Time:<941> Truck:[Fuel Card1] breakdown for 9.118380610353304 minutes at 941
+2025-04-15 10:50:09,209 [INFO] Truck: Time:<969.4567990158478> Truck:[Truck1] Finish loading at shovel LoadSite-3 Shovel-1
+2025-04-15 10:50:09,209 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 3 to North Open-pit Mine Dump Site 3 is in repair，the repair will last for 76.38 mins, and will end at 1045.84, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,210 [DEBUG] Truck: Time:<969.4567990158478> Truck:[Truck1] Start moving to ORDER(2): North Open-pit Mine Dump Site 3, move distance is 15.90324211783565, speed: 25
+2025-04-15 10:50:09,210 [INFO] Truck: Time:<932> Truck:[Truck1] breakdown for 13.182474468877809 minutes at 932
+2025-04-15 10:50:09,215 [DEBUG] Truck: Time:<1004.8653557704647> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 3 at 1004.8653557704647
+2025-04-15 10:50:09,215 [INFO] Truck: Time:<1005.8653557704647> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 3-点位0, dumper tons is 247.77858455865103
+2025-04-15 10:50:09,216 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 3 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 62.73 mins, and will end at 1068.59, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,216 [DEBUG] Truck: Time:<1005.8653557704647> Truck:[Electric Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 18.86241857186905, speed: 10
+2025-04-15 10:50:09,216 [INFO] Truck: Time:<989> Truck:[Electric Card1] breakdown for 7.264924234248301 minutes at 989
+2025-04-15 10:50:09,216 [DEBUG] Truck: Time:<1012.0948326381791> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 2 at 1012.0948326381791
+2025-04-15 10:50:09,217 [INFO] Truck: Time:<1013.0948326381791> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 135.2928192978795
+2025-04-15 10:50:09,217 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 60.67 mins, and will end at 1073.76, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,217 [DEBUG] Truck: Time:<1013.0948326381791> Truck:[Fuel Card1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 15.31876307893919, speed: 25
+2025-04-15 10:50:09,217 [INFO] Truck: Time:<1006> Truck:[Fuel Card1] breakdown for 10.452263751398585 minutes at 1006
+2025-04-15 10:50:09,218 [DEBUG] Truck: Time:<1020.8070545675312> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 3 at 1020.8070545675312
+2025-04-15 10:50:09,218 [INFO] Truck: Time:<1021.8070545675312> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 3-点位0, dumper tons is 298.8625540863105
+2025-04-15 10:50:09,219 [DEBUG] Truck: Time:<1021.8070545675312> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.545014699121168, speed: 25
+2025-04-15 10:50:09,219 [INFO] Truck: Time:<1016> Truck:[Truck1] breakdown for 7.141829909827473 minutes at 1016
+2025-04-15 10:50:09,225 [INFO] Truck: Time:<1060.3121277790317> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 2 at 1060.3121277790317
+2025-04-15 10:50:09,225 [INFO] Truck: Time:<1060.3121277790317> Truck:[Fuel Card1] Start loading at shovel LoadSite-2 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,226 [INFO] Truck: Time:<1063.8569197552495> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 1063.8569197552495
+2025-04-15 10:50:09,226 [INFO] Truck: Time:<1063.8569197552495> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:09,232 [INFO] Truck: Time:<1120.3121277790317> Truck:[Fuel Card1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:09,233 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 54.67 mins, and will end at 1174.98, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,233 [DEBUG] Truck: Time:<1120.3121277790317> Truck:[Fuel Card1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 15.56664948845996, speed: 25
+2025-04-15 10:50:09,233 [INFO] Truck: Time:<1108> Truck:[Fuel Card1] breakdown for 11.190873517960991 minutes at 1108
+2025-04-15 10:50:09,234 [INFO] Truck: Time:<1126.3047914359272> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 1126.3047914359272
+2025-04-15 10:50:09,234 [INFO] Truck: Time:<1126.3047914359272> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 240.0
+2025-04-15 10:50:09,239 [INFO] Truck: Time:<1163.8569197552495> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,239 [INFO] Truck: Time:<1163.8569197552495> Shovel LoadSite-1 Shovel-1 under maintenance for 48.93 minutes
+2025-04-15 10:50:09,240 [DEBUG] Truck: Time:<1168.8629600692964> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 2 at 1168.8629600692964
+2025-04-15 10:50:09,240 [INFO] Truck: Time:<1169.8629600692964> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 165.8130279541536
+2025-04-15 10:50:09,240 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 70.81 mins, and will end at 1240.68, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,241 [DEBUG] Truck: Time:<1169.8629600692964> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 15.163184210021976, speed: 25
+2025-04-15 10:50:09,241 [INFO] Truck: Time:<1168> Truck:[Fuel Card1] breakdown for 11.736164002182155 minutes at 1168
+2025-04-15 10:50:09,244 [INFO] NorthOpenPitMine: simulation finished with dispatcher RandomDispatcher
+2025-04-15 10:50:09,637 [INFO] NorthOpenPitMine: simulation started with dispatcher NearestDispatcher
+2025-04-15 10:50:09,637 [INFO] Truck: Time:<0> Truck:[Fuel Card1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:09,637 [INFO] Truck: Time:<0> Truck:[Electric Card1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:09,638 [INFO] Truck: Time:<0> Truck:[Truck1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:09,642 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 24.0
+2025-04-15 10:50:09,642 [INFO] Truck: Time:<24.0> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 24.0
+2025-04-15 10:50:09,642 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,642 [INFO] Truck: Time:<24.0> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-2, load time is 100.0
+2025-04-15 10:50:09,646 [INFO] Truck: Time:<60.0> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 60.0
+2025-04-15 10:50:09,650 [INFO] Truck: Time:<84.0> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,650 [INFO] Truck: Time:<84.0> Shovel LoadSite-1 Shovel-1 under maintenance for 39.59 minutes
+2025-04-15 10:50:09,653 [INFO] Truck: Time:<123.58885116178324> Shovel LoadSite-1 Shovel-1 maintenance completed
+2025-04-15 10:50:09,656 [DEBUG] Truck: Time:<123.58885116178324> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,656 [INFO] Truck: Time:<97> Truck:[Fuel Card1] breakdown for 6.097680768680401 minutes at 97
+2025-04-15 10:50:09,656 [INFO] Truck: Time:<123.58885116178324> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 240.0
+2025-04-15 10:50:09,656 [INFO] Truck: Time:<124.0> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:09,656 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 74.62 mins, and will end at 198.62, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,656 [DEBUG] Truck: Time:<124.0> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 15.139086121563468, speed: 25
+2025-04-15 10:50:09,656 [INFO] Truck: Time:<124> Truck:[Truck1] breakdown for 9.187947066551649 minutes at 124
+2025-04-15 10:50:09,660 [DEBUG] Truck: Time:<153.68653193046364> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 153.68653193046364
+2025-04-15 10:50:09,660 [INFO] Truck: Time:<154.68653193046364> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 28.790552462510245
+2025-04-15 10:50:09,660 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 66.07 mins, and will end at 220.76, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,660 [DEBUG] Truck: Time:<154.68653193046364> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.218287063767194, speed: 25
+2025-04-15 10:50:09,660 [INFO] Truck: Time:<134> Truck:[Fuel Card1] breakdown for 11.140785682889279 minutes at 134
+2025-04-15 10:50:09,663 [DEBUG] Truck: Time:<169.521753758304> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 169.521753758304
+2025-04-15 10:50:09,663 [INFO] Truck: Time:<170.521753758304> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 82.11359851579505
+2025-04-15 10:50:09,664 [DEBUG] Truck: Time:<170.521753758304> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.975646909207047, speed: 25
+2025-04-15 10:50:09,664 [INFO] Truck: Time:<164> Truck:[Truck1] breakdown for 8.71799935945023 minutes at 164
+2025-04-15 10:50:09,667 [INFO] Truck: Time:<199.9512065663942> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 199.9512065663942
+2025-04-15 10:50:09,667 [INFO] Truck: Time:<199.9512065663942> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 60.0
+2025-04-15 10:50:09,670 [INFO] Truck: Time:<212.78130569985115> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 212.78130569985115
+2025-04-15 10:50:09,675 [INFO] Truck: Time:<259.9512065663942> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:09,675 [DEBUG] Truck: Time:<259.9512065663942> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,675 [INFO] Truck: Time:<254> Truck:[Fuel Card1] breakdown for 9.178128538883694 minutes at 254
+2025-04-15 10:50:09,680 [DEBUG] Truck: Time:<293.1293351052779> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 293.1293351052779
+2025-04-15 10:50:09,680 [INFO] Truck: Time:<294.1293351052779> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 112.18063074664215
+2025-04-15 10:50:09,680 [DEBUG] Truck: Time:<294.1293351052779> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,680 [INFO] Truck: Time:<292> Truck:[Fuel Card1] breakdown for 6.433868217413153 minutes at 292
+2025-04-15 10:50:09,683 [INFO] Truck: Time:<324.56320332269104> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 324.56320332269104
+2025-04-15 10:50:09,683 [INFO] Truck: Time:<324.56320332269104> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 60.0
+2025-04-15 10:50:09,688 [INFO] Truck: Time:<363.5888511617832> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,688 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 71.02 mins, and will end at 434.61, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,689 [DEBUG] Truck: Time:<363.5888511617832> Truck:[Electric Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.51898186954957, speed: 10
+2025-04-15 10:50:09,689 [INFO] Truck: Time:<359> Truck:[Electric Card1] breakdown for 7.571016160469622 minutes at 359
+2025-04-15 10:50:09,689 [INFO] Truck: Time:<363.5888511617832> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:09,691 [INFO] Truck: Time:<384.56320332269104> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:09,693 [DEBUG] Truck: Time:<384.56320332269104> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.053547935836896, speed: 25
+2025-04-15 10:50:09,693 [INFO] Truck: Time:<378> Truck:[Fuel Card1] breakdown for 13.08929173340917 minutes at 378
+2025-04-15 10:50:09,701 [DEBUG] Truck: Time:<428.9810101021087> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 428.9810101021087
+2025-04-15 10:50:09,702 [INFO] Truck: Time:<429.9810101021087> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 139.4717977614422
+2025-04-15 10:50:09,702 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 64.99 mins, and will end at 494.97, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,702 [DEBUG] Truck: Time:<429.9810101021087> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.56130061278308, speed: 25
+2025-04-15 10:50:09,702 [INFO] Truck: Time:<414> Truck:[Fuel Card1] breakdown for 9.900478803732621 minutes at 414
+2025-04-15 10:50:09,707 [DEBUG] Truck: Time:<452.2737585395503> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 1 at 452.2737585395503
+2025-04-15 10:50:09,708 [INFO] Truck: Time:<453.2737585395503> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 267.25966511338436
+2025-04-15 10:50:09,708 [DEBUG] Truck: Time:<453.2737585395503> Truck:[Electric Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.362590040518455, speed: 10
+2025-04-15 10:50:09,708 [INFO] Truck: Time:<427> Truck:[Electric Card1] breakdown for 5.84886920022213 minutes at 427
+2025-04-15 10:50:09,709 [INFO] Truck: Time:<463.5888511617832> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,709 [INFO] Truck: Time:<463.5888511617832> Shovel LoadSite-1 Shovel-1 under maintenance for 46.61 minutes
+2025-04-15 10:50:09,712 [INFO] Truck: Time:<472.4286103765207> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 472.4286103765207
+2025-04-15 10:50:09,712 [INFO] Truck: Time:<472.4286103765207> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 60.0
+2025-04-15 10:50:09,716 [INFO] Truck: Time:<510.19930691407325> Shovel LoadSite-1 Shovel-1 maintenance completed
+2025-04-15 10:50:09,716 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 47.62 mins, and will end at 557.82, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,716 [DEBUG] Truck: Time:<510.19930691407325> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 15.05880360734361, speed: 25
+2025-04-15 10:50:09,716 [INFO] Truck: Time:<503> Truck:[Truck1] breakdown for 15.602182827564071 minutes at 503
+2025-04-15 10:50:09,719 [INFO] Truck: Time:<532.4286103765207> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:09,719 [DEBUG] Truck: Time:<532.4286103765207> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.913714270715413, speed: 25
+2025-04-15 10:50:09,719 [INFO] Truck: Time:<519> Truck:[Fuel Card1] breakdown for 8.93006475510266 minutes at 519
+2025-04-15 10:50:09,721 [INFO] Truck: Time:<545.2981679828831> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 545.2981679828831
+2025-04-15 10:50:09,721 [INFO] Truck: Time:<545.2981679828831> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 240.0
+2025-04-15 10:50:09,723 [DEBUG] Truck: Time:<561.942618399262> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 561.942618399262
+2025-04-15 10:50:09,723 [INFO] Truck: Time:<562.942618399262> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 315.3350426123331
+2025-04-15 10:50:09,723 [DEBUG] Truck: Time:<562.942618399262> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,723 [INFO] Truck: Time:<544> Truck:[Truck1] breakdown for 9.814891360294977 minutes at 544
+2025-04-15 10:50:09,725 [DEBUG] Truck: Time:<574.7515893813404> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 574.7515893813404
+2025-04-15 10:50:09,725 [INFO] Truck: Time:<575.7515893813404> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 345.1366773603665
+2025-04-15 10:50:09,726 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 70.95 mins, and will end at 646.71, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,726 [DEBUG] Truck: Time:<575.7515893813404> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.836999087360482, speed: 25
+2025-04-15 10:50:09,726 [INFO] Truck: Time:<553> Truck:[Fuel Card1] breakdown for 12.31122371292842 minutes at 553
+2025-04-15 10:50:09,730 [INFO] Truck: Time:<596.7575097595569> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 596.7575097595569
+2025-04-15 10:50:09,730 [INFO] Truck: Time:<596.7575097595569> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-2, load time is 100.0
+2025-04-15 10:50:09,734 [INFO] Truck: Time:<621.271610903934> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 621.271610903934
+2025-04-15 10:50:09,743 [INFO] Truck: Time:<696.7575097595569> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:09,744 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 65.13 mins, and will end at 761.88, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,744 [DEBUG] Truck: Time:<696.7575097595569> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.463309447379569, speed: 25
+2025-04-15 10:50:09,744 [INFO] Truck: Time:<679> Truck:[Truck1] breakdown for 3.59342587389333 minutes at 679
+2025-04-15 10:50:09,749 [DEBUG] Truck: Time:<732.6628783071612> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 732.6628783071612
+2025-04-15 10:50:09,749 [INFO] Truck: Time:<733.6628783071612> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 392.8365794604523
+2025-04-15 10:50:09,749 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 45.56 mins, and will end at 779.23, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,750 [DEBUG] Truck: Time:<733.6628783071612> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.884588759003396, speed: 25
+2025-04-15 10:50:09,750 [INFO] Truck: Time:<706> Truck:[Truck1] breakdown for 13.643207294641394 minutes at 706
+2025-04-15 10:50:09,756 [INFO] Truck: Time:<783.0290986234107> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 783.0290986234107
+2025-04-15 10:50:09,756 [INFO] Truck: Time:<783.0290986234107> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-2, load time is 100.0
+2025-04-15 10:50:09,757 [INFO] Truck: Time:<785.2981679828831> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,757 [DEBUG] Truck: Time:<785.2981679828831> Truck:[Electric Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 10
+2025-04-15 10:50:09,757 [INFO] Truck: Time:<774> Truck:[Electric Card1] breakdown for 5.71718556877799 minutes at 774
+2025-04-15 10:50:09,757 [INFO] Truck: Time:<785.2981679828831> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,764 [INFO] Truck: Time:<845.2981679828831> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,764 [DEBUG] Truck: Time:<845.2981679828831> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,764 [INFO] Truck: Time:<835> Truck:[Fuel Card1] breakdown for 10.894794302803836 minutes at 835
+2025-04-15 10:50:09,767 [DEBUG] Truck: Time:<851.0153535516611> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 1 at 851.0153535516611
+2025-04-15 10:50:09,767 [INFO] Truck: Time:<852.0153535516611> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 511.29327408157167
+2025-04-15 10:50:09,767 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 65.60 mins, and will end at 917.61, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,767 [DEBUG] Truck: Time:<852.0153535516611> Truck:[Electric Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.933189031600637, speed: 10
+2025-04-15 10:50:09,767 [INFO] Truck: Time:<843> Truck:[Electric Card1] breakdown for 13.698485133916472 minutes at 843
+2025-04-15 10:50:09,770 [DEBUG] Truck: Time:<880.1929622856869> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 880.1929622856869
+2025-04-15 10:50:09,770 [INFO] Truck: Time:<881.1929622856869> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 542.2350354339713
+2025-04-15 10:50:09,770 [DEBUG] Truck: Time:<881.1929622856869> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.995692469831816, speed: 25
+2025-04-15 10:50:09,771 [INFO] Truck: Time:<879> Truck:[Fuel Card1] breakdown for 16.783200519198992 minutes at 879
+2025-04-15 10:50:09,771 [INFO] Truck: Time:<883.0290986234107> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:09,771 [DEBUG] Truck: Time:<883.0290986234107> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,771 [INFO] Truck: Time:<867> Truck:[Truck1] breakdown for 11.629379153579867 minutes at 867
+2025-04-15 10:50:09,777 [DEBUG] Truck: Time:<918.6584777769906> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 918.6584777769906
+2025-04-15 10:50:09,777 [INFO] Truck: Time:<919.6584777769906> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 596.9726821595265
+2025-04-15 10:50:09,777 [DEBUG] Truck: Time:<919.6584777769906> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,777 [INFO] Truck: Time:<909> Truck:[Truck1] breakdown for 12.951723522863478 minutes at 909
+2025-04-15 10:50:09,779 [INFO] Truck: Time:<932.6102012998541> Truck:[Truck1] is facing 0 mins delay caused by 1 pre-existing jam events on Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1
+2025-04-15 10:50:09,781 [INFO] Truck: Time:<933.9658247324822> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 933.9658247324822
+2025-04-15 10:50:09,781 [INFO] Truck: Time:<933.9658247324822> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,783 [INFO] Truck: Time:<949.3129728751813> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 949.3129728751813
+2025-04-15 10:50:09,783 [INFO] Truck: Time:<949.3129728751813> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 240.0
+2025-04-15 10:50:09,784 [INFO] Truck: Time:<956.6102012998541> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 956.6102012998541
+2025-04-15 10:50:09,789 [INFO] Truck: Time:<993.9658247324822> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,790 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 62.95 mins, and will end at 1056.92, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,790 [DEBUG] Truck: Time:<993.9658247324822> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 11.938849123591694, speed: 25
+2025-04-15 10:50:09,790 [INFO] Truck: Time:<951> Truck:[Fuel Card1] breakdown for 11.4044991117842 minutes at 951
+2025-04-15 10:50:09,790 [INFO] Truck: Time:<993.9658247324822> Truck:[Truck1] Start loading at shovel LoadSite-1 Shovel-1, load time is 100.0
+2025-04-15 10:50:09,795 [DEBUG] Truck: Time:<1034.0235617408864> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 1034.0235617408864
+2025-04-15 10:50:09,795 [INFO] Truck: Time:<1035.0235617408864> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 628.8280415328651
+2025-04-15 10:50:09,795 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 73.30 mins, and will end at 1108.33, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:09,795 [DEBUG] Truck: Time:<1035.0235617408864> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 15.700598982810057, speed: 25
+2025-04-15 10:50:09,796 [INFO] Truck: Time:<1025> Truck:[Fuel Card1] breakdown for 10.491697630197459 minutes at 1025
+2025-04-15 10:50:09,801 [INFO] Truck: Time:<1083.196696929828> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 1083.196696929828
+2025-04-15 10:50:09,803 [INFO] Truck: Time:<1093.9658247324824> Truck:[Truck1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,803 [DEBUG] Truck: Time:<1093.9658247324824> Truck:[Truck1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,803 [INFO] Truck: Time:<1088> Truck:[Truck1] breakdown for 13.074569632049581 minutes at 1088
+2025-04-15 10:50:09,804 [INFO] Truck: Time:<1093.9658247324824> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:09,809 [DEBUG] Truck: Time:<1131.040394364532> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 1 at 1131.040394364532
+2025-04-15 10:50:09,809 [INFO] Truck: Time:<1132.040394364532> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 678.7752306239497
+2025-04-15 10:50:09,809 [DEBUG] Truck: Time:<1132.040394364532> Truck:[Truck1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:09,811 [INFO] Truck: Time:<1153.9658247324824> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:09,811 [INFO] Truck: Time:<1153.9658247324824> Shovel LoadSite-1 Shovel-1 under maintenance for 63.02 minutes
+2025-04-15 10:50:09,812 [INFO] Truck: Time:<1156.040394364532> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 1 at 1156.040394364532
+2025-04-15 10:50:09,816 [INFO] Truck: Time:<1189.3129728751815> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:09,816 [INFO] Truck: Time:<1189.3129728751815> Shovel LoadSite-1 Shovel-2 under maintenance for 41.31 minutes
+2025-04-15 10:50:09,818 [INFO] NorthOpenPitMine: simulation finished with dispatcher NearestDispatcher
+2025-04-15 10:50:10,184 [INFO] NorthOpenPitMine: simulation started with dispatcher FixedGroupDispatcher
+2025-04-15 10:50:10,185 [INFO] Truck: Time:<0> Truck:[Fuel Card1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:10,185 [INFO] Truck: Time:<0> Truck:[Electric Card1] Activated at 0, Target load site is ORDER(0):North Open-pit Mine Load Site 1, move distance is 10
+2025-04-15 10:50:10,186 [INFO] Truck: Time:<0> Truck:[Truck1] Activated at 0, Target load site is ORDER(1):North Open-pit Mine Load Site 2, move distance is 10
+2025-04-15 10:50:10,188 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 24.0
+2025-04-15 10:50:10,189 [INFO] Truck: Time:<24.0> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 24.0
+2025-04-15 10:50:10,189 [INFO] Truck: Time:<24.0> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,189 [INFO] Truck: Time:<24.0> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:10,193 [INFO] Truck: Time:<60.0> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 60.0
+2025-04-15 10:50:10,193 [INFO] Truck: Time:<60.0> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 240.0
+2025-04-15 10:50:10,196 [INFO] Truck: Time:<84.0> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,196 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 66.55 mins, and will end at 150.55, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,196 [DEBUG] Truck: Time:<84.0> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.764846716074842, speed: 25
+2025-04-15 10:50:10,197 [INFO] Truck: Time:<70> Truck:[Fuel Card1] breakdown for 10.282597375693802 minutes at 70
+2025-04-15 10:50:10,201 [INFO] Truck: Time:<124.0> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:10,202 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 43.58 mins, and will end at 167.58, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,202 [DEBUG] Truck: Time:<124.0> Truck:[Truck1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 15.77981013634426, speed: 25
+2025-04-15 10:50:10,202 [INFO] Truck: Time:<117> Truck:[Truck1] breakdown for 8.004363810461177 minutes at 117
+2025-04-15 10:50:10,202 [DEBUG] Truck: Time:<127.31822949427342> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 127.31822949427342
+2025-04-15 10:50:10,202 [INFO] Truck: Time:<128.31822949427342> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 30.033427738936535
+2025-04-15 10:50:10,203 [DEBUG] Truck: Time:<128.31822949427342> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:10,203 [INFO] Truck: Time:<112> Truck:[Fuel Card1] breakdown for 6.271504398947433 minutes at 112
+2025-04-15 10:50:10,208 [INFO] Truck: Time:<158.58973389322085> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 158.58973389322085
+2025-04-15 10:50:10,208 [INFO] Truck: Time:<158.58973389322085> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,209 [DEBUG] Truck: Time:<169.8759081376874> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 2 at 169.8759081376874
+2025-04-15 10:50:10,210 [INFO] Truck: Time:<170.8759081376874> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 51.143742990037424
+2025-04-15 10:50:10,210 [DEBUG] Truck: Time:<170.8759081376874> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 10, speed: 25
+2025-04-15 10:50:10,210 [INFO] Truck: Time:<152> Truck:[Truck1] breakdown for 13.249873523030892 minutes at 152
+2025-04-15 10:50:10,214 [INFO] Truck: Time:<208.12578166071827> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 208.12578166071827
+2025-04-15 10:50:10,214 [INFO] Truck: Time:<208.12578166071827> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:10,215 [INFO] Truck: Time:<218.58973389322085> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,215 [DEBUG] Truck: Time:<218.58973389322085> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:10,215 [INFO] Truck: Time:<209> Truck:[Fuel Card1] breakdown for 9.283736437099384 minutes at 209
+2025-04-15 10:50:10,220 [DEBUG] Truck: Time:<251.87347033032023> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 251.87347033032023
+2025-04-15 10:50:10,220 [INFO] Truck: Time:<252.87347033032023> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 58.8532074779303
+2025-04-15 10:50:10,220 [DEBUG] Truck: Time:<252.87347033032023> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:10,220 [INFO] Truck: Time:<251> Truck:[Fuel Card1] breakdown for 8.8724170568286 minutes at 251
+2025-04-15 10:50:10,224 [INFO] Truck: Time:<285.74588738714885> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 285.74588738714885
+2025-04-15 10:50:10,224 [INFO] Truck: Time:<285.74588738714885> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,225 [INFO] Truck: Time:<300.0> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:10,225 [INFO] Truck: Time:<300.0> Shovel LoadSite-1 Shovel-2 under maintenance for 41.38 minutes
+2025-04-15 10:50:10,227 [INFO] Truck: Time:<308.1257816607183> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:10,227 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 66.44 mins, and will end at 374.56, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,227 [DEBUG] Truck: Time:<308.1257816607183> Truck:[Truck1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 14.466084877466843, speed: 25
+2025-04-15 10:50:10,227 [INFO] Truck: Time:<290> Truck:[Truck1] breakdown for 6.840241134345521 minutes at 290
+2025-04-15 10:50:10,231 [INFO] Truck: Time:<341.38361504968884> Shovel LoadSite-1 Shovel-2 maintenance completed
+2025-04-15 10:50:10,231 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 68.14 mins, and will end at 409.52, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,232 [DEBUG] Truck: Time:<341.38361504968884> Truck:[Electric Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 12.332340983516243, speed: 10
+2025-04-15 10:50:10,232 [INFO] Truck: Time:<334> Truck:[Electric Card1] breakdown for 4.4563363433906655 minutes at 334
+2025-04-15 10:50:10,232 [INFO] Truck: Time:<345.74588738714885> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,232 [INFO] Truck: Time:<345.74588738714885> Shovel LoadSite-1 Shovel-1 under maintenance for 42.20 minutes
+2025-04-15 10:50:10,233 [DEBUG] Truck: Time:<349.6846265009843> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 2 at 349.6846265009843
+2025-04-15 10:50:10,233 [INFO] Truck: Time:<350.6846265009843> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 104.86479440455444
+2025-04-15 10:50:10,233 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 42.17 mins, and will end at 392.86, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,233 [DEBUG] Truck: Time:<350.6846265009843> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 13.401983133083718, speed: 25
+2025-04-15 10:50:10,233 [INFO] Truck: Time:<342> Truck:[Truck1] breakdown for 6.04872561011072 minutes at 342
+2025-04-15 10:50:10,238 [INFO] Truck: Time:<387.94350026449473> Shovel LoadSite-1 Shovel-1 maintenance completed
+2025-04-15 10:50:10,238 [DEBUG] Truck: Time:<387.94350026449473> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.523427547932464, speed: 25
+2025-04-15 10:50:10,238 [INFO] Truck: Time:<334> Truck:[Fuel Card1] breakdown for 11.225277967991953 minutes at 334
+2025-04-15 10:50:10,239 [INFO] Truck: Time:<388.8981116304959> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 388.8981116304959
+2025-04-15 10:50:10,239 [INFO] Truck: Time:<388.8981116304959> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:10,244 [DEBUG] Truck: Time:<419.833997294177> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 1 at 419.833997294177
+2025-04-15 10:50:10,244 [INFO] Truck: Time:<420.833997294177> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 187.20023273204413
+2025-04-15 10:50:10,245 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 57.99 mins, and will end at 478.82, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,245 [DEBUG] Truck: Time:<420.833997294177> Truck:[Electric Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.840976944042364, speed: 10
+2025-04-15 10:50:10,245 [INFO] Truck: Time:<399> Truck:[Electric Card1] breakdown for 11.128438749137814 minutes at 399
+2025-04-15 10:50:10,247 [DEBUG] Truck: Time:<431.62500434752457> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 431.62500434752457
+2025-04-15 10:50:10,247 [INFO] Truck: Time:<432.62500434752457> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 214.75971142430703
+2025-04-15 10:50:10,247 [DEBUG] Truck: Time:<432.62500434752457> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 12.490305803125647, speed: 25
+2025-04-15 10:50:10,247 [INFO] Truck: Time:<423> Truck:[Fuel Card1] breakdown for 8.587712896015027 minutes at 423
+2025-04-15 10:50:10,254 [INFO] Truck: Time:<471.1894511710411> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 471.1894511710411
+2025-04-15 10:50:10,254 [INFO] Truck: Time:<471.1894511710411> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,257 [INFO] Truck: Time:<488.8981116304959> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:10,257 [INFO] Truck: Time:<488.8981116304959> Shovel LoadSite-2 Shovel-1 under maintenance for 60.14 minutes
+2025-04-15 10:50:10,261 [INFO] Truck: Time:<515.008297707569> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 515.008297707569
+2025-04-15 10:50:10,261 [INFO] Truck: Time:<515.008297707569> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 240.0
+2025-04-15 10:50:10,263 [INFO] Truck: Time:<531.1894511710411> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,264 [DEBUG] Truck: Time:<531.1894511710411> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:10,264 [INFO] Truck: Time:<525> Truck:[Fuel Card1] breakdown for 11.940832286133444 minutes at 525
+2025-04-15 10:50:10,268 [INFO] Truck: Time:<549.0362135877004> Shovel LoadSite-2 Shovel-1 maintenance completed
+2025-04-15 10:50:10,268 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 61.69 mins, and will end at 610.73, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,269 [DEBUG] Truck: Time:<549.0362135877004> Truck:[Truck1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 14.932549828079189, speed: 25
+2025-04-15 10:50:10,269 [INFO] Truck: Time:<548> Truck:[Truck1] breakdown for 13.746332838294823 minutes at 548
+2025-04-15 10:50:10,271 [DEBUG] Truck: Time:<567.1302834571745> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 567.1302834571745
+2025-04-15 10:50:10,271 [INFO] Truck: Time:<568.1302834571745> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 243.13270068019807
+2025-04-15 10:50:10,272 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 71.22 mins, and will end at 639.35, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,272 [DEBUG] Truck: Time:<568.1302834571745> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.273508698585236, speed: 25
+2025-04-15 10:50:10,272 [INFO] Truck: Time:<560> Truck:[Fuel Card1] breakdown for 11.424773271441566 minutes at 560
+2025-04-15 10:50:10,276 [DEBUG] Truck: Time:<598.6206660133853> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 2 at 598.6206660133853
+2025-04-15 10:50:10,276 [INFO] Truck: Time:<599.6206660133853> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 155.83916669954837
+2025-04-15 10:50:10,277 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 46.65 mins, and will end at 646.27, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,277 [DEBUG] Truck: Time:<599.6206660133853> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 14.313563014656811, speed: 25
+2025-04-15 10:50:10,277 [INFO] Truck: Time:<599> Truck:[Truck1] breakdown for 10.18089495093156 minutes at 599
+2025-04-15 10:50:10,280 [INFO] Truck: Time:<613.8114776052207> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 613.8114776052207
+2025-04-15 10:50:10,280 [INFO] Truck: Time:<613.8114776052207> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,285 [INFO] Truck: Time:<644.1541121994932> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 644.1541121994932
+2025-04-15 10:50:10,285 [INFO] Truck: Time:<644.1541121994932> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:10,288 [INFO] Truck: Time:<673.8114776052207> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,289 [INFO] Truck: Time:<673.8114776052207> Shovel LoadSite-1 Shovel-1 under maintenance for 46.04 minutes
+2025-04-15 10:50:10,296 [INFO] Truck: Time:<719.8559346197592> Shovel LoadSite-1 Shovel-1 maintenance completed
+2025-04-15 10:50:10,296 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 53.02 mins, and will end at 772.88, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,297 [DEBUG] Truck: Time:<719.8559346197592> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 14.899442616782652, speed: 25
+2025-04-15 10:50:10,297 [INFO] Truck: Time:<699> Truck:[Fuel Card1] breakdown for 4.842056123292522 minutes at 699
+2025-04-15 10:50:10,300 [INFO] Truck: Time:<744.1541121994932> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:10,301 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 60.89 mins, and will end at 805.05, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,301 [DEBUG] Truck: Time:<744.1541121994932> Truck:[Truck1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 16.253389272258257, speed: 25
+2025-04-15 10:50:10,301 [INFO] Truck: Time:<730> Truck:[Truck1] breakdown for 8.726069231984539 minutes at 730
+2025-04-15 10:50:10,302 [INFO] Truck: Time:<755.008297707569> Truck:[Electric Card1] Finish loading at shovel LoadSite-1 Shovel-2
+2025-04-15 10:50:10,303 [INFO] Truck: Time:<755.008297707569> Shovel LoadSite-1 Shovel-2 under maintenance for 36.48 minutes
+2025-04-15 10:50:10,304 [DEBUG] Truck: Time:<760.4566530233301> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 760.4566530233301
+2025-04-15 10:50:10,304 [INFO] Truck: Time:<761.4566530233301> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 275.82280756996647
+2025-04-15 10:50:10,304 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 48.64 mins, and will end at 810.10, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,305 [DEBUG] Truck: Time:<761.4566530233301> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.34730513885157, speed: 25
+2025-04-15 10:50:10,305 [INFO] Truck: Time:<750> Truck:[Fuel Card1] breakdown for 11.260750500109827 minutes at 750
+2025-04-15 10:50:10,309 [INFO] Truck: Time:<791.4860078251647> Shovel LoadSite-1 Shovel-2 maintenance completed
+2025-04-15 10:50:10,309 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 52.26 mins, and will end at 843.74, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,309 [DEBUG] Truck: Time:<791.4860078251647> Truck:[Electric Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.102294494231666, speed: 10
+2025-04-15 10:50:10,309 [INFO] Truck: Time:<789> Truck:[Electric Card1] breakdown for 9.67917081059073 minutes at 789
+2025-04-15 10:50:10,309 [DEBUG] Truck: Time:<791.8883156848975> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 2 at 791.8883156848975
+2025-04-15 10:50:10,309 [INFO] Truck: Time:<792.8883156848975> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 207.81711168169747
+2025-04-15 10:50:10,310 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 45.25 mins, and will end at 838.14, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,310 [DEBUG] Truck: Time:<792.8883156848975> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 13.580827664587085, speed: 25
+2025-04-15 10:50:10,310 [INFO] Truck: Time:<779> Truck:[Truck1] breakdown for 6.18333403037696 minutes at 779
+2025-04-15 10:50:10,313 [INFO] Truck: Time:<804.7509358566837> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 804.7509358566837
+2025-04-15 10:50:10,313 [INFO] Truck: Time:<804.7509358566837> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,317 [INFO] Truck: Time:<831.6656361102835> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 831.6656361102835
+2025-04-15 10:50:10,319 [INFO] Truck: Time:<831.6656361102835> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:10,326 [INFO] Truck: Time:<864.7509358566837> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,326 [DEBUG] Truck: Time:<864.7509358566837> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:10,326 [INFO] Truck: Time:<834> Truck:[Fuel Card1] breakdown for 12.240932365503369 minutes at 834
+2025-04-15 10:50:10,330 [DEBUG] Truck: Time:<879.7789456011454> Truck:[Electric Card1] Arrived at North Open-pit Mine Dump Site 1 at 879.7789456011454
+2025-04-15 10:50:10,331 [INFO] Truck: Time:<880.7789456011454> Truck:[Electric Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 396.5021268957781
+2025-04-15 10:50:10,331 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 58.34 mins, and will end at 939.12, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,331 [DEBUG] Truck: Time:<880.7789456011454> Truck:[Electric Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.941997529764297, speed: 10
+2025-04-15 10:50:10,331 [INFO] Truck: Time:<870> Truck:[Electric Card1] breakdown for 8.908962131385474 minutes at 870
+2025-04-15 10:50:10,334 [DEBUG] Truck: Time:<900.991868222187> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 900.991868222187
+2025-04-15 10:50:10,334 [INFO] Truck: Time:<901.991868222187> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 425.0677048789448
+2025-04-15 10:50:10,334 [DEBUG] Truck: Time:<901.991868222187> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 14.581661033249102, speed: 25
+2025-04-15 10:50:10,335 [INFO] Truck: Time:<886> Truck:[Fuel Card1] breakdown for 5.813757540520148 minutes at 886
+2025-04-15 10:50:10,338 [INFO] Truck: Time:<931.6656361102835> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:10,339 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 64.90 mins, and will end at 996.57, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,339 [DEBUG] Truck: Time:<931.6656361102835> Truck:[Truck1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 13.775349256283125, speed: 25
+2025-04-15 10:50:10,339 [INFO] Truck: Time:<877> Truck:[Truck1] breakdown for 9.551441062862652 minutes at 877
+2025-04-15 10:50:10,341 [INFO] Truck: Time:<942.8016122425049> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 942.8016122425049
+2025-04-15 10:50:10,341 [INFO] Truck: Time:<942.8016122425049> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,345 [INFO] Truck: Time:<973.3398929111166> Truck:[Electric Card1] Arrived at North Open-pit Mine Load Site 1 at 973.3398929111166
+2025-04-15 10:50:10,346 [INFO] Truck: Time:<973.3398929111166> Truck:[Electric Card1] Start loading at shovel LoadSite-1 Shovel-2, load time is 240.0
+2025-04-15 10:50:10,346 [DEBUG] Truck: Time:<974.2779153882256> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 2 at 974.2779153882256
+2025-04-15 10:50:10,347 [INFO] Truck: Time:<975.2779153882256> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 256.4212559099381
+2025-04-15 10:50:10,348 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 56.24 mins, and will end at 1031.52, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,348 [DEBUG] Truck: Time:<975.2779153882256> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 13.198887128872101, speed: 25
+2025-04-15 10:50:10,348 [INFO] Truck: Time:<951> Truck:[Truck1] breakdown for 17.557517285434308 minutes at 951
+2025-04-15 10:50:10,352 [INFO] Truck: Time:<1002.8016122425049> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,352 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 67.01 mins, and will end at 1069.81, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,353 [DEBUG] Truck: Time:<1002.8016122425049> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.506093559645711, speed: 25
+2025-04-15 10:50:10,353 [INFO] Truck: Time:<1001> Truck:[Fuel Card1] breakdown for 14.743694233068066 minutes at 1001
+2025-04-15 10:50:10,355 [INFO] Truck: Time:<1024.5127617829528> Truck:[Truck1] Arrived at North Open-pit Mine Load Site 2 at 1024.5127617829528
+2025-04-15 10:50:10,356 [INFO] Truck: Time:<1024.5127617829528> Truck:[Truck1] Start loading at shovel LoadSite-2 Shovel-1, load time is 100.0
+2025-04-15 10:50:10,359 [DEBUG] Truck: Time:<1049.9599310187227> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 1049.9599310187227
+2025-04-15 10:50:10,359 [INFO] Truck: Time:<1050.9599310187227> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 452.9931129950472
+2025-04-15 10:50:10,359 [DEBUG] Truck: Time:<1050.9599310187227> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 10, speed: 25
+2025-04-15 10:50:10,359 [INFO] Truck: Time:<1038> Truck:[Fuel Card1] breakdown for 10.016622622355753 minutes at 1038
+2025-04-15 10:50:10,364 [INFO] Truck: Time:<1084.9765536410785> Truck:[Fuel Card1] Arrived at North Open-pit Mine Load Site 1 at 1084.9765536410785
+2025-04-15 10:50:10,365 [INFO] Truck: Time:<1084.9765536410785> Truck:[Fuel Card1] Start loading at shovel LoadSite-1 Shovel-1, load time is 60.0
+2025-04-15 10:50:10,370 [INFO] Truck: Time:<1124.5127617829528> Truck:[Truck1] Finish loading at shovel LoadSite-2 Shovel-1
+2025-04-15 10:50:10,370 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 2 to North Open-pit Mine Dump Site 2 is in repair，the repair will last for 78.18 mins, and will end at 1202.69, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,370 [DEBUG] Truck: Time:<1124.5127617829528> Truck:[Truck1] Start moving to ORDER(1): North Open-pit Mine Dump Site 2, move distance is 13.436226091594117, speed: 25
+2025-04-15 10:50:10,370 [INFO] Truck: Time:<1103> Truck:[Truck1] breakdown for 16.891627042364213 minutes at 1103
+2025-04-15 10:50:10,373 [INFO] Truck: Time:<1144.9765536410785> Truck:[Fuel Card1] Finish loading at shovel LoadSite-1 Shovel-1
+2025-04-15 10:50:10,374 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Load Site 1 to North Open-pit Mine Dump Site 1 is in repair，the repair will last for 53.78 mins, and will end at 1198.75, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,374 [DEBUG] Truck: Time:<1144.9765536410785> Truck:[Fuel Card1] Start moving to ORDER(0): North Open-pit Mine Dump Site 1, move distance is 13.404907321584325, speed: 25
+2025-04-15 10:50:10,374 [INFO] Truck: Time:<1139> Truck:[Fuel Card1] breakdown for 8.17436175301721 minutes at 1139
+2025-04-15 10:50:10,377 [DEBUG] Truck: Time:<1173.651331445143> Truck:[Truck1] Arrived at North Open-pit Mine Dump Site 2 at 1173.651331445143
+2025-04-15 10:50:10,378 [INFO] Truck: Time:<1174.651331445143> Truck:[Truck1] Finish unloading at dumper North Open-pit Mine Dump Site 2-点位0, dumper tons is 308.95729439510757
+2025-04-15 10:50:10,378 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 2 to North Open-pit Mine Load Site 2 is in repair，the repair will last for 45.11 mins, and will end at 1219.76, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,378 [DEBUG] Truck: Time:<1174.651331445143> Truck:[Truck1] Start moving to ORDER(1):North Open-pit Mine Load Site 2, move distance is 13.62187092676602, speed: 25
+2025-04-15 10:50:10,378 [INFO] Truck: Time:<1170> Truck:[Truck1] breakdown for 9.719932780989442 minutes at 1170
+2025-04-15 10:50:10,379 [DEBUG] Truck: Time:<1185.3226929658979> Truck:[Fuel Card1] Arrived at North Open-pit Mine Dump Site 1 at 1185.3226929658979
+2025-04-15 10:50:10,380 [INFO] Truck: Time:<1186.3226929658979> Truck:[Fuel Card1] Finish unloading at dumper North Open-pit Mine Dump Site 1-点位0, dumper tons is 484.3530859916171
+2025-04-15 10:50:10,380 [INFO] Road: [RoadEvent] Road from North Open-pit Mine Dump Site 1 to North Open-pit Mine Load Site 1 is in repair，the repair will last for 46.42 mins, and will end at 1232.74, vehicle on this road will have to suffer punish_distance.
+2025-04-15 10:50:10,380 [DEBUG] Truck: Time:<1186.3226929658979> Truck:[Fuel Card1] Start moving to ORDER(0):North Open-pit Mine Load Site 1, move distance is 13.856252487190623, speed: 25
+2025-04-15 10:50:10,380 [INFO] Truck: Time:<1178> Truck:[Fuel Card1] breakdown for 5.412121818208327 minutes at 1178
+2025-04-15 10:50:10,382 [INFO] NorthOpenPitMine: simulation finished with dispatcher FixedGroupDispatcher
